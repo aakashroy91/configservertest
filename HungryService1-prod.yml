@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: HungryService1PROD
+server:
+  port: 8083
+
+service2:
+  url: http://localhost:8081/
